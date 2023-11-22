@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>B2_median</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">20</MDI>
+      <MDI key="STATISTICS_MEAN">9.6056561546825</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">3.866676846249</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">55.3</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
