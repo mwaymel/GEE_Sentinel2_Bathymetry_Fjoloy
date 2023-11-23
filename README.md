@@ -1,4 +1,4 @@
-# Bathymetric mapping in Norway based on Sentinel 2 images, using Google Earth Engine (GEE) - POC for Kartverket
+# Bathymetric mapping in Norway based on Sentinel 2 images, using Google Earth Engine (GEE) - POC for Kartverket on Fjøløy area
 
 In the *Input data* folder can be found all data necessary to run the code *Bathymetry_Fjoloy.js*.
 
