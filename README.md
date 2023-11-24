@@ -1,10 +1,12 @@
 # Bathymetric mapping in Norway based on Sentinel 2 images, using Google Earth Engine (GEE) - POC for Kartverket on Fjøløy area
 
+*Report_Satellite_derived_bathymetry.pdf* is the report of this project.
+
+*Bathymetry_Fjoloy.js* is the GEE code file.
+
 In the *Input data* folder can be found all data necessary to run the code *Bathymetry_Fjoloy.js*.
 
 The *Output data* folder contains a QGIS project with all output layers, the CSV file of an histogram of the comparison with the ground truth, and the python code to calculate statistical parameters and fitting gaussian.
-
-*Bathymetry_Fjoloy.js* is the GEE code file.
 
 ## Steps to run the code
 
